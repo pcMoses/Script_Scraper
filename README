@@ -1,0 +1,3 @@
+here is my python project, the goal is to crete a web scrapper that will grab all "copy paste" commands from a guide website and string them together in the
+command line. the goal is to provide a search prompt that allows you to get command line tools wrapped into one bundle and execute it all at once without
+needing to read throgh articles and sift through adds on pages, it just grabs the "copy buttons" contense and strings them all together.
